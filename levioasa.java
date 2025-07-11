@@ -21,9 +21,11 @@ class levioasa{
         animals.add("lion");
         animals.add("deer");
         animals.add("tiger");
+        System.out.println(animals);
     }
     }
         
+
         
         
         
